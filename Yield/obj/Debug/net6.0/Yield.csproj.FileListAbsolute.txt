@@ -1,0 +1,15 @@
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/bin/Debug/net6.0/Yield
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/bin/Debug/net6.0/Yield.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/bin/Debug/net6.0/Yield.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/bin/Debug/net6.0/Yield.dll
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/bin/Debug/net6.0/Yield.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.dll
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/refint/Yield.dll
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/Yield.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/LearningTree/Course973/Demos/Yield/obj/Debug/net6.0/ref/Yield.dll
